@@ -1,0 +1,11 @@
+{
+  "name": "koongo",
+  "version": "1.0.0",
+  "description": "Koongo is an e-commerce solution that helps online merchants sell everywhere - connecting their product catalogue to 500+ sales channels through product feed management and marketplace integration. Manage your feeds, marketplace listings and orders from Gemini.",
+  "mcpServers": {
+    "koongo": {
+      "httpUrl": "https://mcp.koongo.com/mcp",
+      "authProviderType": "dynamic_discovery"
+    }
+  }
+}
